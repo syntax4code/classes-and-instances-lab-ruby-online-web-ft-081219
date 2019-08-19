@@ -1,2 +1,3 @@
 Person.new 
-Jack = 
+Jack = Person.new
+Jill = Person.new
